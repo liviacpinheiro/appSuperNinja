@@ -1,2 +1,2 @@
 # appSuperNinja
-Um app super ninja que faz coisas sumpimpásticas
+Um app super ninja
